@@ -5,7 +5,6 @@
 
 ## ✔ 프로젝트 소개 
 - 개발기간 : 22/12/19 ~ 22/12/30
-- 개발환경 : Windows 10
 - 개발도구 : <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse&logoColor=white">
 - 프로젝트 기획배경 : 싸이월드가 다시 부활한 현재, 예전의 웹사이트가 아닌  <br>
 모바일로만 이용 가능한 점에 아쉬움을 느껴 옛날 홈페이지 감성을 다시 되살리고자 했다.
